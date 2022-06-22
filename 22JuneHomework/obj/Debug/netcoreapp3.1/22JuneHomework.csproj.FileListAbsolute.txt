@@ -1,0 +1,14 @@
+/Users/fatehmmmdli/Projects/22JuneHomework/22JuneHomework/obj/Debug/netcoreapp3.1/22JuneHomework.csproj.AssemblyReference.cache
+/Users/fatehmmmdli/Projects/22JuneHomework/22JuneHomework/obj/Debug/netcoreapp3.1/22JuneHomework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatehmmmdli/Projects/22JuneHomework/22JuneHomework/obj/Debug/netcoreapp3.1/22JuneHomework.AssemblyInfoInputs.cache
+/Users/fatehmmmdli/Projects/22JuneHomework/22JuneHomework/obj/Debug/netcoreapp3.1/22JuneHomework.AssemblyInfo.cs
+/Users/fatehmmmdli/Projects/22JuneHomework/22JuneHomework/obj/Debug/netcoreapp3.1/22JuneHomework.csproj.CoreCompileInputs.cache
+/Users/fatehmmmdli/Projects/22JuneHomework/22JuneHomework/bin/Debug/netcoreapp3.1/22JuneHomework
+/Users/fatehmmmdli/Projects/22JuneHomework/22JuneHomework/bin/Debug/netcoreapp3.1/22JuneHomework.deps.json
+/Users/fatehmmmdli/Projects/22JuneHomework/22JuneHomework/bin/Debug/netcoreapp3.1/22JuneHomework.runtimeconfig.json
+/Users/fatehmmmdli/Projects/22JuneHomework/22JuneHomework/bin/Debug/netcoreapp3.1/22JuneHomework.runtimeconfig.dev.json
+/Users/fatehmmmdli/Projects/22JuneHomework/22JuneHomework/bin/Debug/netcoreapp3.1/22JuneHomework.dll
+/Users/fatehmmmdli/Projects/22JuneHomework/22JuneHomework/bin/Debug/netcoreapp3.1/22JuneHomework.pdb
+/Users/fatehmmmdli/Projects/22JuneHomework/22JuneHomework/obj/Debug/netcoreapp3.1/22JuneHomework.dll
+/Users/fatehmmmdli/Projects/22JuneHomework/22JuneHomework/obj/Debug/netcoreapp3.1/22JuneHomework.pdb
+/Users/fatehmmmdli/Projects/22JuneHomework/22JuneHomework/obj/Debug/netcoreapp3.1/22JuneHomework.genruntimeconfig.cache
